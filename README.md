@@ -25,7 +25,6 @@ Esta é uma forma de  ajudar o maior número de devs possível, então se você 
 1. Abra uma issue mostrando que você vai fazer a tradução do conteúdo para determinada língua.
 2. Faça um Fork do projeto.
 3. Crie sua branch (`git checkout -b translatation/english`).
-4. Siga a arquitetura de diretórios. [ver sobre](traducoes/README.md)
-5. Confirme as alterações (`git add . && git commit -m "sua mensagem"`).
-6. Empurre para seu repositório remoto (`git push origin translation/english`).
-7. Abra uma pull request.
+4. Confirme as alterações (`git add . && git commit -m "sua mensagem"`).
+5. Empurre para seu repositório remoto (`git push origin translation/english`).
+6. Abra uma pull request.
