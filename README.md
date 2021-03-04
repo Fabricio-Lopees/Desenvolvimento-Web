@@ -1,6 +1,6 @@
 # Desenvolvimento Web
 
-![](../../imgs/cover.jpg)
+![](/imgs/cover.jpg)
 
 > Este é um repositório onde eu coloco tópicos que eu estou estudando para me tornar um desenvolver web. Durante o estudo, irei atualizar este repositório e explicar alguns dos tópicos aprendidos, com a intenção de testar meus conhecimentos e também ajudar outros devs por ai.
 >
