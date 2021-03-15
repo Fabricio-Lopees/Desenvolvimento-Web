@@ -1,5 +1,5 @@
 # Basic knowledge
-## hardware
+## Hardware
 In information technology (IT), hardware is the physical part of the machine, that is, it is all the internal mechanical equipment (motherboard, video card, processor, etc.) or external (cabinet, monitor, mouse, keyboard) of a computer.
 
 ## Software
